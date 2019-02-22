@@ -18,15 +18,7 @@ namespace GitTest
                     Console.WriteLine(Saurav());
                     Console.ReadLine();
                     break;
-                case "Aakriti":
-                    Console.WriteLine("hello");
-                    break;
-                case "Rosan":
-                    Console.WriteLine("hello");
-                    break;
-                case "Samiksha":
-                    Console.WriteLine("hello");
-                    break;
+              
                 default:
                     Console.WriteLine("Sorry mate");
                     break;
