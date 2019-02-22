@@ -1,0 +1,6 @@
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\saurav\Desktop\8 SQUARE INTERN\ConsoleTestGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.pdb
