@@ -21,6 +21,9 @@ namespace GitTest
               
                 default:
                     Console.WriteLine("Sorry mate");
+                case "Aakriti":
+                    Console.WriteLine(Aakriti());
+                    Console.ReadLine();
                     break;
                
             }
@@ -38,6 +41,10 @@ namespace GitTest
         public static string Saurav()
         {
             return "Saurav";
+        }
+        public static string Aakriti()
+        {
+            return "Hello! My name is Akritee.";
         }
     }
 }
