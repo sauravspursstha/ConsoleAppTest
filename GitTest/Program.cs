@@ -15,17 +15,14 @@ namespace GitTest
             switch (name)
             {
                 case "Saurav":
-                    Console.WriteLine("hello");
+                    Console.WriteLine(Saurav());
+                    Console.ReadLine();
                     break;
-                case "Aakriti":
-                    Console.WriteLine("hello");
+              
+                default:
+                    Console.WriteLine("Sorry mate");
                     break;
-                case "Rosan":
-                    Console.WriteLine("hello");
-                    break;
-                case "Samiksha":
-                    Console.WriteLine("hello");
-                    break;
+               
             }
 
         }
@@ -33,9 +30,14 @@ namespace GitTest
         public static string EnterName()
         {
             Console.WriteLine("Enter your name:");
-            string name = Console.Read().ToString();
+            string name = Console.ReadLine().ToString();
 
             return name;
+        }
+
+        public static string Saurav()
+        {
+            return "Saurav";
         }
     }
 }
