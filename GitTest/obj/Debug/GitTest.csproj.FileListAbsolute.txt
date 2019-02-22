@@ -1,0 +1,7 @@
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe.config
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\bin\Debug\GitTest.pdb
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.csprojAssemblyReference.cache
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.exe
+E:\visualstudiofiles\ConsoleGit\ConsoleAppTest\GitTest\obj\Debug\GitTest.pdb
