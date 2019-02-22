@@ -18,7 +18,8 @@ namespace GitTest
                     Console.WriteLine("hello");
                     break;
                 case "Aakriti":
-                    Console.WriteLine("hello");
+                    Console.WriteLine(Aakriti());
+                    Console.ReadLine();
                     break;
                 case "Rosan":
                     Console.WriteLine("hello");
@@ -33,9 +34,13 @@ namespace GitTest
         public static string EnterName()
         {
             Console.WriteLine("Enter your name:");
-            string name = Console.Read().ToString();
+            string name = Console.ReadLine().ToString();
 
             return name;
+        }
+        public static string Aakriti()
+        {
+            return "Hello! My name is Akritee.";
         }
     }
 }
