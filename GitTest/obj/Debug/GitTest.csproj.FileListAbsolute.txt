@@ -1,0 +1,7 @@
+D:\console\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe.config
+D:\console\ConsoleAppTest\GitTest\bin\Debug\GitTest.exe
+D:\console\ConsoleAppTest\GitTest\bin\Debug\GitTest.pdb
+D:\console\ConsoleAppTest\GitTest\obj\Debug\GitTest.csprojAssemblyReference.cache
+D:\console\ConsoleAppTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+D:\console\ConsoleAppTest\GitTest\obj\Debug\GitTest.exe
+D:\console\ConsoleAppTest\GitTest\obj\Debug\GitTest.pdb
